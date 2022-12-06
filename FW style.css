@@ -1,0 +1,57 @@
+html { }
+
+body {
+  font-family: "Inconsolata";
+  background-color: #ffffea;
+  width: 75vw;
+  margin-left: 12.5vw;
+  text-align: center;
+}
+
+h1 {
+  font-size: 38px;
+  color: #ff5e5b;
+  margin-bottom: 6vh;
+}
+
+input, button {
+  margin-bottom: 1vh;
+}
+
+button {
+  width: 80%;
+  background-color: #00cecb;
+  border: 1px;
+  border-radius: 8px;
+  color: white;
+  padding: 8px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+}
+
+button:hover {
+  background-color: #ffed66;
+  color: grey;
+}
+
+input {
+  font-size: 18px;
+  width: 78%;
+  text-align: center;
+  padding: 8px 8px;
+  border-radius: 8px;
+}
+
+#main-wrapper {
+  margin-top: 33vh;
+}
+
+#discovery {
+  display: none;
+}
+
+#home-title {
+  /* text-align: center; */
+}
